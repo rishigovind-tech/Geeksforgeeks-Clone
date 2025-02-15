@@ -233,7 +233,12 @@ function Navbar() {
           <a href="" className=" hover:text-green-600">
             <li>AWS</li>
           </a>
-          
+          <a href="" className=" hover:text-green-600">
+            <li>R</li>
+          </a>
+          <a href="" className=" hover:text-green-600">
+            <li>Flutter</li>
+          </a>
           
         </ul>
       </div>

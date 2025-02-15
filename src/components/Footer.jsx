@@ -140,7 +140,7 @@ const Footer = () => {
           </nav>
         </footer>
       </div>
-      <div className='flex justify-center p-4'>
+      <div className='flex justify-center p-4 border-t border-black'>
           <p>@GeeksforGeeks, Sanchhaya Education Private Limited, All rights reserved</p>
       </div>
     </div>
