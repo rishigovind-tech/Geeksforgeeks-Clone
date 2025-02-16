@@ -1,3 +1,12 @@
+# GeeksforGeeks Landing Page Clone - React.js 
+
+This project is a clone of the GeeksforGeeks landing page, built using React.js. The goal of this project is to replicate the UI and functionality of the original page while improving my React development skills.
+
+Tech Stack:
+ - React.js (Component-based UI)
+ - CSS / Tailwind CSS (Styling)
+ - React Router (If applicable for navigation)
+
 # Screenshot:
 
 ![Screenshot](src/Geeks.png)
